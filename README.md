@@ -8,4 +8,4 @@ to predict potential habitability scores, among othert things, using machine lea
 - Repeat of model-building process for kNN (coming soon).
 
 ## Tools
-Python, pandas, scikit-learn, matplotlib, Jupyter Notebook
+Python, pandas, scikit-learn, matplotlib, numpy, Jupyter Notebook
